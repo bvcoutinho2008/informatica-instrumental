@@ -1,3 +1,5 @@
+:revealjsdir: https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.8.0
+
 :imagesdir: images
 
 //Inclui numeração de títulos
@@ -51,7 +53,7 @@ _itálico_
 
 === Imagens
 
-. Título da imagem 2.
+.Título da imagem 2.
 
 image:evolution-of-man-and-computer.jpg[link:imagem-teste.jpg]
 
@@ -61,3 +63,29 @@ image:evolution-of-man-and-computer.jpg[link:imagem-teste.jpg]
 video::bpy3Z9vBlEM[youtube, width=640, height=480]
 
 video::fxyN6gWHGmc[youtube, width=640, height=480]
+
+=== Exibir código fonte
+
+.Imprimindo com java
+[source, java]
+----
+public void funcao(){
+    system.out.println("Olá");
+}
+----
+
+.Cálculo do quadrado de um número
+[source, java]
+----
+include::Quadrado.java[]
+----
+
+.Capturando dados do teclado
+[source, java]
+----
+include::Teclado.java[tag::main]
+----
+
+== Capítulo 2
+
+link:manual[Manual do github]
