@@ -1,6 +1,11 @@
 :imagesdir: images
 
+//Inclui numeração de títulos
 :numbered:
+
+//Habilita sumário
+:toc: left
+:toc-title: Sumário
 
 = Curso AsciiDoc
 
