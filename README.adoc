@@ -49,3 +49,10 @@ _itálico_
 . Título da imagem 2.
 
 image:evolution-of-man-and-computer.jpg[link:imagem-teste.jpg]
+
+
+=== Vídeos
+
+video::https://www.youtube.com/watch?v=bpy3Z9vBlEM[youtube, width=640, height=480]
+
+video::fxyN6gWHGmc[youtube, width=640, height=480]
