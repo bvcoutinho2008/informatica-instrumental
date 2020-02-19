@@ -88,4 +88,4 @@ include::Teclado.java[tag::main]
 
 == Capítulo 2
 
-link:manual[Manual do github]
+link:manual/[Manual do github]
