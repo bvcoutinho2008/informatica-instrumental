@@ -48,4 +48,4 @@ _itálico_
 
 . Título da imagem 2.
 
-image:evolution-of-man-and-computer.jpg[Teste]
+image:evolution-of-man-and-computer.jpg[link:imagem-teste.jpg]
